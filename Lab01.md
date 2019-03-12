@@ -15,10 +15,11 @@ come faccio una sleep??
   eliminare dalla struttura dati solamente la parola selezionata nell’area di testo.
   Implementare l’opportuno metodo aggiuntivo nella classe Parole , che dovrà
   essere richiamato all’evento di pressione del bottone Cancella .
-- [ ] Aggiungere, sotto all’area di testo per la visualizzazione delle parole, un’ulteriore
+- [x] Aggiungere, sotto all’area di testo per la visualizzazione delle parole, un’ulteriore
   area di testo per visualizzare i tempi di esecuzione di ciascuna operazione
   eseguita dal programma (utilizzare la funzione System.nanoTime() ).
-- [ ] Creare due versioni della classe Parole , basandole rispettivamente su una
+- [x] Creare due versioni della classe Parole , basandole rispettivamente su una
   LinkedList e un ArrayList . Sperimentare con le due versioni del programma: ci
   sono differenze nelle prestazioni?
 
+linkedlist metà tempo fino a 20 record
